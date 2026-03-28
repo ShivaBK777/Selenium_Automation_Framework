@@ -1,0 +1,13 @@
+{
+  "environments": {
+    "QA": {
+      "Url": "https://automationexercise.com"
+    },
+    "UAT": {
+      "Url": "https://uat.automationexercise.com"
+    },
+    "PROD": {
+      "Url": "https://automationexercise.com"
+    }
+  }
+}

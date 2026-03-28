@@ -1,0 +1,22 @@
+2026-12-363 19:58:30 [main] INFO com.ui.listeners.testListner Test suite started 
+2026-12-363 19:58:59 [main] INFO com.ui.listeners.testListner ReadExcel 
+2026-12-363 19:58:59 [main] INFO com.ui.listeners.testListner Verfies login flow thru Excel reader 
+2026-12-363 19:58:59 [main] INFO com.ui.listeners.testListner [] 
+2026-12-363 19:58:59 [main] INFO com.ui.listeners.testListner ReadExcel this method got skipped 
+2026-12-363 19:59:22 [main] INFO com.ui.listeners.testListner ReadExcel 
+2026-12-363 19:59:22 [main] INFO com.ui.listeners.testListner Verfies login flow thru Excel reader 
+2026-12-363 19:59:22 [main] INFO com.ui.listeners.testListner [] 
+2026-12-363 19:59:22 [main] INFO com.ui.listeners.testListner ReadExcel this method got skipped 
+2026-12-363 19:59:55 [main] INFO com.ui.listeners.testListner ReadExcel 
+2026-12-363 19:59:55 [main] INFO com.ui.listeners.testListner Verfies login flow thru Excel reader 
+2026-12-363 19:59:55 [main] INFO com.ui.listeners.testListner [] 
+2026-12-363 19:59:55 [main] INFO com.ui.listeners.testListner ReadExcel this method got skipped 
+2026-12-363 20:00:12 [main] INFO com.ui.listeners.testListner ReadExcel 
+2026-12-363 20:00:12 [main] INFO com.ui.listeners.testListner Verfies login flow thru Excel reader 
+2026-12-363 20:00:12 [main] INFO com.ui.listeners.testListner [] 
+2026-12-363 20:00:12 [main] INFO com.ui.listeners.testListner ReadExcel this method got failed 
+2026-12-363 20:00:41 [main] INFO com.ui.listeners.testListner ReadExcel 
+2026-12-363 20:00:41 [main] INFO com.ui.listeners.testListner Verfies login flow thru Excel reader 
+2026-12-363 20:00:41 [main] INFO com.ui.listeners.testListner [] 
+2026-12-363 20:00:41 [main] INFO com.ui.listeners.testListner ReadExcel this method got failed 
+2026-12-363 20:00:41 [main] INFO com.ui.listeners.testListner Test suite completed 
